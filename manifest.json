@@ -1,0 +1,12 @@
+{
+  "name": "communa.network as a blank page",
+  "version": "0.0.1",
+  "description": "A Chrome extension to communa.network index page as blank page for Chrome browser",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {
+    "128": "logo.png"
+  },
+  "manifest_version": 3
+}
